@@ -1,2 +1,2 @@
 # latex-rep-example
-For illustration purpose.
+For illustration purpose
